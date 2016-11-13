@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SynScramble</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">Unscramble the below word</string>
+    <string name="next">Give up?</string>
+    <string name="clear">&lt;-</string>
+    <string name="title_activity_main">Main</string>
+</resources>
